@@ -25,6 +25,8 @@ Skills: C / Python
 
 ![GitHub metrics](https://metrics.lecoq.io/mihad0x1)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihad0x1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mihad0x1)  
 
 ![Profile views](https://gpvc.arturio.dev/mihad0x1)  
