@@ -1,4 +1,4 @@
-![ Cyber Security Researcher](https://photos.app.goo.gl/tfipjXmiXm2F8y6X6?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![ Cyber Security Researcher](https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ### Hi there 👋, I'm Mihad
 ####  Cyber Security Researcher
