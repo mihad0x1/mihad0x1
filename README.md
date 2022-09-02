@@ -6,7 +6,7 @@
 
 Noob Hacker.
 
-Skills: C / Python
+Skills: C / Python / JavaScript.
 
 - 🔭 I’m currently working on HackerOne 
 - 🌱 I’m currently learning Hacking 
