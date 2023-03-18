@@ -21,7 +21,7 @@ Skills: C / Python / JavaScript / HTML / PHP / SQL.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihad0x1&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mihad0x1)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mihad0x1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/mihad0x1)  
 
