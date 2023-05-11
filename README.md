@@ -4,7 +4,6 @@
 ####  Cyber Security Researcher
 
 
-Noob Hacker.
 
 Skills: C / Python / JavaScript / HTML / PHP / SQL.
 
