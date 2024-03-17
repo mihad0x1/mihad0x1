@@ -1,4 +1,4 @@
-![ Cyber Security Researcher](https://image-0.uhdpaper.com/wallpaper/hacker-digital-art-4k-wallpaper-uhdpaper.com-532@0@i.jpg)
+![ Cyber Security Researcher](https://img.freepik.com/premium-photo/hacker-dark-room-with-computer-background_771335-51675.jpg?w=1380)
 
 
 ### Hi there 👋, I'm Mihad Mehrab
