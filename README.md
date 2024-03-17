@@ -5,7 +5,7 @@
 
 
 
-Skills: C / Python / JavaScript / HTML / PHP / SQL.
+Skills: C / Python / JavaScript / HTML / PHP / SQL / XML.
 
 - 🔭 I’m currently working on HackerOne 
 - 🌱 I’m currently learning Hacking 
