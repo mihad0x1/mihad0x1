@@ -1,4 +1,4 @@
-![ Cyber Security Researcher](https://media.istockphoto.com/id/1383961687/video/computer-hacker-looking-to-a-laptop-screen-and-binary-codes.mp4?w=1380)
+![ Cyber Security Researcher](https://images.pexels.com/photos/5380605/pexels-photo-5380605.jpeg?w=1380)
 
 
 ### Hi there 👋, I'm Mihad Mehrab
