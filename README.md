@@ -1,4 +1,4 @@
-![ Cyber Security Researcher](https://img.freepik.com/premium-photo/hacker-dark-room-with-computer-background_771335-51675.jpg?w=1380)
+![ Cyber Security Researcher](https://media.istockphoto.com/id/1383961687/video/computer-hacker-looking-to-a-laptop-screen-and-binary-codes.mp4?w=1380)
 
 
 ### Hi there 👋, I'm Mihad Mehrab
